@@ -2,3 +2,4 @@
 *.gtf
 *.gz
 *.ipynb_checkpoints
+.idea
