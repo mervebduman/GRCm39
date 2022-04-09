@@ -1,2 +1,8 @@
-## Download the database
-Go to <https://www.gencodegenes.org/mouse/> and download the current release "Comprehensive gene annotation" or download from the FTP server: <http://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_mouse/release_M28/> "gencode.vM28.annotation.gtf.gz".
+# Chromosome Lengths Calculator
+Program automatically calculates the length of the chromosomes in a genome, saves the data in an Excel file and creates a bar chart.
+
+Example: 
+## How to run the program
+1. Run main.py
+2. Enter the URL of the database.
+3. Program will automatically run.
