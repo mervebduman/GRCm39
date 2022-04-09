@@ -2,8 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #Get the data url
-with open ('data.txt', 'r') as f:
-    data = f.read()
+data = input('Enter the URL:')
 name = data.rsplit('/', 1)[-1]
 
 #Download the data
